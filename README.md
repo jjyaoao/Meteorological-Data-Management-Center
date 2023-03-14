@@ -15,6 +15,9 @@
 ![project](https://user-images.githubusercontent.com/88936287/225012442-0622ecbf-41f4-4a65-af28-c44b40aa1ae7.png)
 
 
+**Detailed description of the project**: /Project Introduction Manual/Meteorological-Data-Management-Center.pdf
+
+
 How do I start a project?
 
 first:
