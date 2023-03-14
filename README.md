@@ -1,2 +1,13 @@
 # Meteorological Data Management Center
-My first back-end project
+
+Operating environment:
+
+OS: CentOS 7 x86_64
+
+RAM: 2GB
+
+SCSI: 80GB
+
+programming language: C/C++
+
+
