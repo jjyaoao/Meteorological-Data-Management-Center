@@ -1,0 +1,8 @@
+# ninja log v5
+13	1751	1649765541515983190	CMakeFiles/project.dir/idc/c/crtsurfdata1.cpp.o	9daa2668b22c92d1
+2	1852	1649765541615981530	CMakeFiles/project.dir/public/demo/demo51.cpp.o	4b1afec4018975db
+17	1985	1649765541747979338	CMakeFiles/project.dir/idc/c/crtsurfdata2.cpp.o	994d1c290620ec09
+17	2166	1649765541911976615	CMakeFiles/project.dir/idc/c/crtsurfdata3.cpp.o	b7046036b31b8119
+22	2171	1649765541931976284	CMakeFiles/project.dir/idc/c/crtsurfdata4.cpp.o	86cbe8c33428a23e
+9	2224	1649765541987975354	CMakeFiles/project.dir/idc/c/crtsurfdata.cpp.o	67d92051294999a8
+1753	2835	1649765542599965173	CMakeFiles/project.dir/idc/c/crtsurfdata5.cpp.o	5af3890e194a5136
